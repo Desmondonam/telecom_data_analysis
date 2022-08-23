@@ -45,6 +45,3 @@ class TelecomHelper:
     megabyte_col = df[bytes_data] / megabyte
 
     return megabyte_col
-
-  
-  
